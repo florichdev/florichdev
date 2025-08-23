@@ -2,7 +2,6 @@
 <h2 align="center">My name is Vadim, 18 y.o.</h2>
 <h2 align="center">I'm Frontend-Developer</h2></h2>
 <div id="header" align="center">
-  <img src="https://github.com/florichdev/florichdev/raw/main/1.gif" alt="florichdev" width="1000"/>
 </div>
 
 + 🌍 I'm based in Russia
