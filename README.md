@@ -6,7 +6,7 @@
 
 + 🌍 I'm based in Russia
 + ✉️ You can contact me at [florichdev@gmail.com](mailto:florichdev@gmail.com)
-+ TG: Also you can contact me at https://t.me/furutayo
++ TG: Also you can contact me at https://t.me/yoshimuracxz
 + 🤝 I'm open to collaborating on Web-Projects
 <img src="https://komarev.com/ghpvc/?username=florichdev&style=flat-square&color=blue" alt=""/>
 <h2>Skills</h2>
