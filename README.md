@@ -22,7 +22,7 @@
 ### 📫 Connect With Me
 
 - 📧 **Email:** [florichdev@gmail.com](mailto:florichdev@gmail.com)
-- 📱 **Telegram:** [@yoshimuracxz](https://t.me/yoshimuracxz)
+- 📱 **Telegram:** [@vflorich](https://t.me/vflorich)
 
 ---
 
