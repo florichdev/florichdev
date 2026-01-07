@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=b30000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vadim+%F0%9F%91%8B;Fullstack+Developer;Building+Web+%26+Backend+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=b30000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vadim+%F0%9F%91%8B;Full-stack+Developer;Building+Web+%26+Backend+Solutions" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 Name: Vadim
 Age: 19
 Location: Russia
-Role: Fullstack Developer
+Role: Full-stack Developer
 Focus: Web, Backend, APIs
 Status: Open to collaboration
 ```
