@@ -72,23 +72,3 @@ Status: Open to collaboration
 </p>
 
 ---
-
-## 📊 Top Languages
-
-<div align="center">
-
-<a href="https://github.com/florichdev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florichdev&langs_count=10&hide_border=true&bg_color=0d1117&title_color=e11d48&text_color=ffffff" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=florichdev&theme=dark&hide_border=true&background=0D1117&stroke=E11D48&ring=E11D48&fire=E11D48&currStreakLabel=E11D48" />
-
-</div>
-
----
