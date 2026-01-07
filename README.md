@@ -4,13 +4,17 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=florichdev&style=flat-square&color=b30000" />
+<img src="https://komarev.com/ghpvc/?username=florichdev&style=flat-square&color=b30000"/>
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> | 
+  <a href="./README.ru.md">🇷🇺 Русский</a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 Обо мне | About Me
+## 👨‍💻 About Me
 
 ```yaml
 Name: Vadim
@@ -21,14 +25,14 @@ Focus: Web, Backend, APIs
 Status: Open to collaboration
 ```
 
-- 🚀 Разрабатываю веб-приложения от идеи до продакшена | I develop web applications from idea to production 
-- 🧠 Люблю архитектуру, чистый код и понятные интерфейсы | I love architecture, clean code, and intuitive interfaces
-- ⚙️ Работаю с backend, API и базами данных | I work with backend, APIs, and databases
-- 🤝 Открыт к совместным проектам | Open to collaboration projects
+- 🚀 I develop web applications from idea to production 
+- 🧠 I love architecture, clean code, and intuitive interfaces
+- ⚙️ I work with backend, APIs, and databases
+- 🤝 Open to collaboration projects
 
 ---
 
-## 📬 Контакты | Contacts
+## 📬 Contacts
 
 - 📧 Email: **florichdev@gmail.com**
 - 💬 Telegram: **[@vflorich](https://t.me/vflorich)**
