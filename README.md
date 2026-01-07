@@ -1,78 +1,94 @@
-<h1 align="center">Hello</h1>
-<h2 align="center">I'm Vadim, 19 y.o.</h2>
-<h2 align="center">I'm Fullstack-Developer</h2></h2>
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=florichdev&style=flat-square&color=blue)
-  
-</div>
-
----
-
-### 🚀 About Me
-
-- 🌍 Based in Russia
-- 💻 Passionate about web development and creating innovative solutions
-- 🎯 Focused on fullstack development with modern technologies
-- 🤝 Open to collaborating on interesting Web-Projects
-
----
-
-### 📫 Connect With Me
-
-- 📧 **Email:** [florichdev@gmail.com](mailto:florichdev@gmail.com)
-- 📱 **Telegram:** [@vflorich](https://t.me/vflorich)
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
 
-#### Frontend
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=b30000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vadim+%F0%9F%91%8B;Fullstack+Developer;Building+Web+%26+Backend+Solutions" />
 
-#### Backend
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<br/>
 
-#### Game & App Development
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-
-#### Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=florichdev&style=flat-square&color=b30000" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 Обо мне | About Me
 
-<table align="center">
-<tr>
-<th> Most Used Languages </th>
-<th> GitHub Statistics </th>
-</tr>
-<tr>
-<td>
+```yaml
+Name: Vadim
+Age: 19
+Location: Russia
+Role: Fullstack Developer
+Focus: Web, Backend, APIs
+Status: Open to collaboration
+```
 
-<a href="https://github.com/florichdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florichdev&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+- 🚀 Разрабатываю веб-приложения от идеи до продакшена | I develop web applications from idea to production 
+- 🧠 Люблю архитектуру, чистый код и понятные интерфейсы | I love architecture, clean code, and intuitive interfaces
+- ⚙️ Работаю с backend, API и базами данных | I work with backend, APIs, and databases
+- 🤝 Открыт к совместным проектам | Open to collaboration projects
 
-</td>
-<td>
+---
 
-<a href="http://www.github.com/florichdev"><img src="https://github-readme-stats.vercel.app/api?username=florichdev&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="FlorichDev's GitHub stats" /></a>
+## 📬 Контакты | Contacts
 
-</td>
-</tr>
-</table>
+- 📧 Email: **florichdev@gmail.com**
+- 💬 Telegram: **[@vflorich](https://t.me/vflorich)**
+
+---
+
+## 🧩 Tech Stack
+
+### Frontend
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
+</p>
+
+### Backend
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
+</p>
+
+### Databases
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42"/>
+</p>
+
+### Tools & Other
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="42"/>
+</p>
+
+---
+
+## 📊 Top Languages
+
+<div align="center">
+
+<a href="https://github.com/florichdev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florichdev&langs_count=10&hide_border=true&bg_color=0d1117&title_color=e11d48&text_color=ffffff" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=florichdev&theme=dark&hide_border=true&background=0D1117&stroke=E11D48&ring=E11D48&fire=E11D48&currStreakLabel=E11D48" />
+
+</div>
 
 ---
