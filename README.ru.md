@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=b30000&center=true&vCenter=true&width=500&lines=Привет%2C+я+Вадим+%F0%9F%91%8B;Fullstack+Разработчик;Создаю+Web+%26+Backend+Решения" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=b30000&center=true&vCenter=true&width=500&lines=Привет%2C+я+Вадим+%F0%9F%91%8B;Full-stack+Разработчик;Создаю+Web+%26+Backend+Решения" />
 
 <br/>
 
