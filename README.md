@@ -28,7 +28,6 @@ Status: Open to collaboration
 - 🚀 I develop web applications from idea to production 
 - 🧠 I love architecture, clean code, and intuitive interfaces
 - ⚙️ I work with backend, APIs, and databases
-- 🤝 Open to collaboration projects
 
 ---
 
