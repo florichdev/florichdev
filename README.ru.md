@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=b30000&center=true&vCenter=true&width=500&lines=Привет%2C+я+Вадим+%F0%9F%91%8B;Full-stack+Разработчик;Создаю+Web+%26+Backend+Решения" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=b30000&center=true&vCenter=true&width=550&lines=Привет%2C+я+Вадим+%F0%9F%91%8B;Python+Backend+Developer;FastAPI+%7C+Asyncio+%7C+Databases;Боты+%26+Серверная+Архитектура" />
 
 <br/>
 
@@ -20,14 +20,15 @@
 Имя: Вадим
 Возраст: 19
 Местоположение: Россия
-Роль: Full-stack Разработчик
-Фокус: Web, Backend, API
+Роль: Python Backend Developer
+Фокус: FastAPI, Asyncio, PostgreSQL, Telegram Bots & API
 Статус: Открыт для сотрудничества
 ```
 
-- 🚀 Разрабатываю веб-приложения от идеи до продакшена
-- 🧠 Люблю архитектуру, чистый код и интуитивные интерфейсы
-- ⚙️ Работаю с бэкендом, API и базами данных
+- ⚙️ Проектирую надежную серверную логику и высокопроизводительные REST API (FastAPI, Flask)
+- 🤖 Разрабатываю отказоустойчивых Telegram/MAX ботов со сложной бизнес-логикой, FSM и платежными шлюзами
+- 🗄️ Проектирую и оптимизирую базы данных (PostgreSQL, SQLite, Redis), настраиваю кэширование и очереди
+- 🌐 Понимаю специфику клиентской части (React, TypeScript), поэтому проектирую предсказуемые и удобные контракты API
 
 ---
 
@@ -40,42 +41,31 @@
 
 ## 🧩 Технологический стек
 
-### Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-</p>
-
-### Backend
+### Backend & Серверная архитектура
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%23404040" alt="Express"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
 </p>
 
-### Базы данных
+### Базы данных & Кэширование
 <p align="center">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
 </p>
 
-### DevOps и облачные технологии
+### DevOps & Инфраструктура
 <p align="center">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ### Тестирование
@@ -83,7 +73,17 @@
 <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=black" alt="Pytest"/>
 </p>
 
-### Дизайн, хобби и другое
+### Frontend & Сопутствующие технологии
+<p align="center">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Инструменты & Другое
 <p align="center">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
@@ -93,3 +93,4 @@
 </p>
 
 ---
+
