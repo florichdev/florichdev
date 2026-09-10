@@ -18,78 +18,67 @@
 
 ```yaml
 Name: Vadim
-Age: 19
 Location: Russia
-Role: Python Backend Developer
-Focus: FastAPI, Asyncio, PostgreSQL, Telegram Bots & APIs
-Status: Open to collaboration
+Role: Python Backend & Telegram Bot Developer
+Key Stack: FastAPI, Asyncio, Aiogram 3, PostgreSQL, Redis, Docker
+Work Format: Full-cycle projects, Freelance, Long-term collaboration
+Track Record: 15+ production projects, 100% on-time delivery, 5.0 rating
 ```
 
-- ⚙️ Designing high-performance server architectures and scalable REST APIs (FastAPI, Flask)
-- 🤖 Building robust Telegram/MAX bots with complex business logic, FSM, and payment gateways
-- 🗄️ Database architecture & query optimization (PostgreSQL, SQLite, Redis), caching and task queues
-- 🌐 Solid understanding of frontend client needs (React, TypeScript) to design clean, predictable API contracts
+- 🤖 **Telegram Bots & Mini Apps:** resilient solutions of any complexity (FSM, payment systems Crypto / ЮKassa / Stripe, subscriptions, webhooks, admin panels).
+- ⚙️ **Backend & REST APIs:** scalable server architecture with FastAPI and Flask, strict data validation, JWT/OAuth2 authentication.
+- 🗄️ **Databases & Caching:** schema design (PostgreSQL, SQLite, Redis), Alembic migrations, complex query optimization.
+- 🕷️ **Scraping & Automation:** asynchronous scrapers, anti-bot bypass techniques, task queues, exports to DB / Excel / Google Sheets.
+- 🌐 **Full-cycle Delivery:** frontend understanding (React, TypeScript) enabling end-to-end solutions with modern web dashboards or Telegram Mini Apps.
 
 ---
 
 ## 📬 Contacts
 
-- 📧 Email: **florichdev@gmail.com**
 - 💬 Telegram: **[@vflorich](https://t.me/vflorich)**
+- 💼 Portfolio: **[florichdev.github.io](https://florichdev.github.io/)**
+- ⭐️ Kwork: **[florichdev](https://kwork.ru/user/florichdev)**
+- 📧 Email: **florichdev@gmail.com**
 
 ---
 
 ## 🧩 Tech Stack
 
-### Backend & Server Architecture
+### Core & Backend
 <p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%23404040" alt="Express"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/aiogram_3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio"/>
 </p>
 
-### Databases & Caching
+### Databases & Storage
 <p align="center">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=python&logoColor=white" alt="Alembic"/>
 </p>
 
 ### DevOps & Infrastructure
 <p align="center">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
 </p>
 
-### Testing
+### Frontend & WebApps (Dashboards & TMA)
 <p align="center">
-<img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=black" alt="Pytest"/>
-</p>
-
-### Frontend & Client-side
-<p align="center">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Tools & Other
-<p align="center">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ---

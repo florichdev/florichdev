@@ -18,78 +18,67 @@
 
 ```yaml
 Имя: Вадим
-Возраст: 19
-Местоположение: Россия
-Роль: Python Backend Developer
-Фокус: FastAPI, Asyncio, PostgreSQL, Telegram Bots & API
-Статус: Открыт для сотрудничества
+Локация: Россия
+Специализация: Python Backend & Telegram Bot Developer
+Ключевые навыки: FastAPI, Asyncio, Aiogram 3, PostgreSQL, Redis, Docker
+Формат работы: Проекты под ключ, фриланс, долгосрочное сотрудничество
+Статистика: 15+ коммерческих проектов в проде, 100% сдача в срок, рейтинг 5.0
 ```
 
-- ⚙️ Проектирую надежную серверную логику и высокопроизводительные REST API (FastAPI, Flask)
-- 🤖 Разрабатываю отказоустойчивых Telegram/MAX ботов со сложной бизнес-логикой, FSM и платежными шлюзами
-- 🗄️ Проектирую и оптимизирую базы данных (PostgreSQL, SQLite, Redis), настраиваю кэширование и очереди
-- 🌐 Понимаю специфику клиентской части (React, TypeScript), поэтому проектирую предсказуемые и удобные контракты API
+- 🤖 **Telegram-боты и Mini Apps:** проектирую отказоустойчивые решения любой сложности (FSM, прием платежей Crypto / ЮKassa / Stripe, подписки, вебхуки, админки).
+- ⚙️ **Backend & REST API:** надежные серверные архитектуры на FastAPI и Flask, валидация данных, авторизация (JWT / OAuth2).
+- 🗄️ **Базы данных & Кэширование:** проектирование схем (PostgreSQL, SQLite, Redis), миграции Alembic, оптимизация сложных запросов.
+- 🕷️ **Парсинг & Автоматизация:** асинхронный скрапинг, обход блокировок, фоновые очереди задач, выгрузка в БД / Excel / Google Sheets.
+- 🌐 **Full-cycle подход:** знание фронтенда (React, TypeScript) позволяет сдавать проекты под ключ с удобным веб-интерфейсом или Mini App.
 
 ---
 
 ## 📬 Контакты
 
-- 📧 Email: **florichdev@gmail.com**
 - 💬 Telegram: **[@vflorich](https://t.me/vflorich)**
+- 💼 Портфолио: **[florichdev.github.io](https://florichdev.github.io/)**
+- ⭐️ Kwork: **[florichdev](https://kwork.ru/user/florichdev)**
+- 📧 Email: **florichdev@gmail.com**
 
 ---
 
 ## 🧩 Технологический стек
 
-### Backend & Серверная архитектура
+### Core & Backend
 <p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/aiogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%23404040" alt="Express"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/aiogram_3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Asyncio"/>
 </p>
 
-### Базы данных & Кэширование
+### Базы данных & Хранение
 <p align="center">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Alembic-000000?style=for-the-badge&logo=python&logoColor=white" alt="Alembic"/>
 </p>
 
-### DevOps & Инфраструктура
+### DevOps & Деплой
 <p align="center">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
 </p>
 
-### Тестирование
+### Frontend & WebApps (Интерфейсы и админки)
 <p align="center">
-<img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=black" alt="Pytest"/>
-</p>
-
-### Frontend & Сопутствующие технологии
-<p align="center">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Инструменты & Другое
-<p align="center">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ---
