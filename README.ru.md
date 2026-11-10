@@ -37,7 +37,7 @@
 
 | Проект | Стек | Описание архитектуры | Исходники |
 | :--- | :--- | :--- | :---: |
-| **[Standoff 2 Sticker Market & Hub](https://github.com/florichdev/standoff2-sticker-market)** | `FastAPI` `Aiogram 3` `SQLAlchemy 2.0` `PostgreSQL` `Docker` `Pytest` | P2P-платформа обмена игровыми активами с анонимным чатом сделок, монетизацией через Telegram Stars, админ-панелью на FastAPI и 25 тестами Pytest. | [Репозиторий](https://github.com/florichdev/standoff2-sticker-market) |
+| **[Standoff 2 Sticker Market & Hub](https://github.com/florichdev/standoff2-sticker-market)** | `FastAPI` `Aiogram 3` `SQLAlchemy 2.0` `PostgreSQL` `Docker` `Pytest` | P2P-платформа обмена игровыми активами с анонимным чатом сделок, монетизацией через Telegram Stars, админ-панелью на FastAPI и 65 тестами Pytest. | [Репозиторий](https://github.com/florichdev/standoff2-sticker-market) |
 | **[Telegram E-Commerce & Flask Admin](https://github.com/florichdev/telegram-ecommerce-flask-admin)** | `Aiogram 3` `Flask 3` `SQLAlchemy` `Jinja2` `Bootstrap` | Полноценная платформа интернет-магазина: клиентский бот с корзиной и статусами заказов + веб-админка на Flask для управления каталогом и аналитикой. | [Репозиторий](https://github.com/florichdev/telegram-ecommerce-flask-admin) |
 | **[Сайт-портфолио разработчика](https://florichdev.github.io)** | `React` `JavaScript` `CSS3` `GitHub Pages` | Презентационный интерактивный сайт разработчика с кейсами, описанием услуг и контактами. | [Сайт](https://florichdev.github.io) |
 
