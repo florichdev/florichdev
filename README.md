@@ -33,6 +33,16 @@ Track Record: 15+ production projects, 100% on-time delivery, 5.0 rating
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | Description | Source |
+| :--- | :--- | :--- | :---: |
+| **[Standoff 2 Sticker Market & Hub](https://github.com/florichdev/standoff2-sticker-market)** | `FastAPI` `Aiogram 3` `SQLAlchemy 2.0` `PostgreSQL` `Docker` `Pytest` | High-performance P2P trading platform for game assets with an anonymous deal chat, Telegram Stars monetization, and a FastAPI web admin dashboard. 25+ automated tests. | [Code](https://github.com/florichdev/standoff2-sticker-market) |
+| **[Telegram E-Commerce & Flask Admin](https://github.com/florichdev/telegram-ecommerce-flask-admin)** | `Aiogram 3` `Flask 3` `SQLAlchemy` `Jinja2` `Bootstrap` | Full-cycle e-commerce store with nested catalog navigation, cart management, and a complete Flask web dashboard for inventory, orders, and sales analytics. | [Code](https://github.com/florichdev/telegram-ecommerce-flask-admin) |
+| **[Developer Brand & Portfolio Hub](https://florichdev.github.io)** | `React` `JavaScript` `CSS3` `GitHub Pages` | Interactive dark-mode developer portfolio showcasing commercial cases, Telegram services, and engineering track record. | [Live](https://florichdev.github.io) |
+
+---
+
 ## 📬 Contacts
 
 - 💬 Telegram: **[@vflorich](https://t.me/vflorich)**
